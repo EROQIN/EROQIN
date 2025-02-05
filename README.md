@@ -32,9 +32,6 @@ I entered university in September 2024 and aspire to become a full-stack enginee
 
 
 
-TODO:手撕spring框架
-
-
 ## Coding Panel|编程仪表盘
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,11 +44,3 @@ TODO:手撕spring框架
 <div>
   <img src="https://wakatime.com/share/@36ece3cd-c2ad-45fa-a197-b94830147f38/7d1debca-3a81-4249-91cd-b0478b2d2230.svg" width='780px'/>
 </div>
-
-
-
-## Other links | 其它链接
-
-<a href="https://gitee.com/erokin" target="_blank">
-  <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
-</a>
