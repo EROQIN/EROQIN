@@ -42,5 +42,5 @@ I entered university in September 2024 and aspire to become a full-stack enginee
   <img src="https://github-readme-stats.vercel.app/api?username=EROQIN&count_private=true&show_icons=true&hide=issues" />
 </a>
 <div>
-  <img src="https://wakatime.com/share/@36ece3cd-c2ad-45fa-a197-b94830147f38/ab3552ef-4ca1-42e9-aab4-0705716e170b.svg" width='780px'/>
+  <img src="https://wakatime.com/share/@36ece3cd-c2ad-45fa-a197-b94830147f38/7db52a9f-8385-489c-ad62-51dd7b6864d0.svg" width='780px'/>
 </div>
